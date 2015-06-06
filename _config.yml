@@ -1,25 +1,26 @@
-title:            Jordi Pont-Tuset's site
+title:            Mireia Roca-Riu's site
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://jponttuset.github.io
+url:              http://localhost:5000
 #http://localhost:5000
 #http://jponttuset.github.io
-disqus_shortname: jponttuset
+disqus_shortname: mrocariu
 
 # Owner/author information
 owner:
-  name:           Jordi Pont-Tuset
-  avatar:         jordi.png
-  bio:            I'm from a small town near Girona, Catalunya. Currently in Zürich, Switzerland. Passionate about computer vision, technology, running, and mountains.
-  email:          jponttuset@gmail.com
+  name:           Mireia Roca-riu
+  avatar:         mireia.png
+  bio:            Mathematician finishing her PhD between formulations, models, and intances for urban delivery optimization. 
+                  Currently in Zürich, Switzerland.
+  email:          mireiaroca@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: jponttuset
-  linkedin: jponttuset
-  google_scholar: VCBBx24AAAAJ
-  google_plus: 113718226018314522413
-  github: jponttuset
+  twitter: 
+  linkedin:
+  google_scholar: HWVkjKUAAAAJ
+  google_plus: 
+  github: mrocariu
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-52736040-1
+google_analytics:
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
