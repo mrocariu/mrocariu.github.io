@@ -7,4 +7,4 @@ image:
   feature: trees.jpg
 ---
 
-Currently working on building a fantastic website. :)
+Currently working on building my fantastic website. :)
