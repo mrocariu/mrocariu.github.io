@@ -11,7 +11,7 @@ I am a Postdoctoral Researcher at [ETHZ](https://www.ethz.ch/en.html), in the In
 <br/>  
 <br/>
 
-On December 2015 I defended my PhD Thesis entitled: "Improving Urban Deliveries via Collaboration".
+On December 2015 I defended my PhD Thesis entitled: "Improving Urban Deliveries via Collaboration"
 <br/>
 
 
