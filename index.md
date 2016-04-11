@@ -4,7 +4,7 @@ title: Me in a Nutshell
 description: "Mireia Roca-Riu's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: trees.jpg
+  feature: Citywebsite.png
 ---
 
 I am a Postdoctoral Researcher at [ETHZ](https://www.ethz.ch/en.html), in the Institute for Transportation and Planing ([IVT](http://www.ivt.ethz.ch/index_EN)) under the supervision of [Dr. Mónica Menéndez](http://www.ivt.ethz.ch/people/mmenendez/index_EN).
