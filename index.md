@@ -19,7 +19,7 @@ On December 2015 I defended my PhD Thesis entitled: "Improving Urban Deliveries 
 <br/>
 <br/>
 
-While performing my PhD I worked at [CENIT](http://cenit.upc.edu/), where I participated in several research applied projects.<br/>
+While performing my PhD I worked at [CENIT](http://cenit.es/), where I participated in several research applied projects.<br/>
 <br/>
 
 I would like to stay on the research side of industry oriented problems.
