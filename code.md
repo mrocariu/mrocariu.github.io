@@ -9,6 +9,15 @@ comments: false
 
 For my research I develop formulations, some code, and instances. I will share some of them here, so my work is easier to reproduce or in case it can help someone in their research.
 
+## Flexible Reservations in a Car Sharing System
+
+![Flexible Reservations in a Car Sharing System](/images/flexiblereservations.png)
+
+- [Instances](/files/flexiblereservations_inst.zip) for Flexible Reservations in a Car Sharing System. Randomly generated instances inspired on the Mobility for the year 2010.
+
+- [Reservation Scheme](/files/flexiblereservations_code.zip). Resolution of the reservation scheme as described in the paper, with the resolution of the optimal allocation and the necessary pricing.
+
+
 ## Parking slot Assignment Problem (PAP)
 
 ![Parking Slot Assignment Problem](/images/pap.png)
